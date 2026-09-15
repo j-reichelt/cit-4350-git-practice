@@ -1,0 +1,3 @@
+This is just a test for navigating around git and its functions/features. Collaborators can add a simple one line random sentence below. 
+
+# add your content here #
