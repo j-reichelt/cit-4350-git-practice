@@ -2,5 +2,6 @@ This is just a test for navigating around git and its functions/features. Collab
 
 # add your content here #
 
-#Justin was here and cloned this repository into bash after realizing windows likes to move the Desktop file path to OneDrive. #
+#Justin was here and cloned this repository into bash after realizing windows likes to move the Desktop file path to OneDrive. 
+#Josiah was here and edited this repository and announced his kingly presence 
 
